@@ -3,7 +3,7 @@
 <h3 align="center">👋 Hi there,</h3>
 <h4 align="center"> I'm Garam Kim, a junior Front-end developer 💻
 
-<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
+<h3 align="center">❤️‍🔥 My Github Stats ❤️‍🔥</h3>
 <div align="center">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=garamse&hide_title=true&show_icons=true&include_all_commits=true&theme=marko)](https://github.com/garamse/github-readme-stats)
